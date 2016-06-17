@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WaypointManipulation</string>
+    <string name="longitude">Enter Longitude</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
